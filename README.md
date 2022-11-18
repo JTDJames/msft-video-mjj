@@ -48,21 +48,33 @@ We then decided to find which genre combinations brought in the most profit:
 
 ![top_genres_profit](images/top_gen_s_2012_b_avg_wwgr.png)
 
-We wanted to gauge the success of the current directors:
+To gauge the success of the current directors:
 
 We searched for directors who had more than one movie rated in the top 50 on imdb that also had atleast 100,000 votes:
 
 ![top_50_Barchart](images/top_dirs_s_2012_100000_by_movs_in_top50.png)
     
-Then we wanted to find the directors who brought in most profit based on all the movies they had directed:
+Then we wanted to find the directors who brought in the most profit based on all of the movies they had directed:
 
 ![Highest_earning_Barchart](images/top_dirs_profit_s_2012.png)
 
 
-## Conclusion
+# Conclusion
+
+##In order to ensure the highest probability of success, we advice to follow these key points:
 
 
+##Hire staff from studios that have been successful in the past
 
-Edited in GitHub
+
+##Allocate the necessary budget proven to bring in profit
+
+
+##Create movies in genres that are proven to draw crowds
+
+
+#Hire a director that has a large following and has consistently drawn profit
+
+
 
 
