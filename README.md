@@ -12,8 +12,7 @@ https://www.boxofficemojo.com/
 We've come to the conclusion that genre type, the production budget, and the director play a most noticable role in profits. While it is important to get a good rating, we've found that it is not as important when trying to build capital.
 
 ## Business Problem
-![What-does-a-film-studio-do](https://user-images.githubusercontent.com/97541858/202750967-1b032b01-48b8-4093-8864-7497cdb2b9f0.jpg)
- 
+![download](https://user-images.githubusercontent.com/97541858/202751917-5fcb2924-341a-4ba5-868d-bcb57bdee749.jpg) 
 Microsoft is planning on expanding their company developing an original content studio. We believe it best to start with a comprehensive understanding of the current market. Doing so will allow for the best opportunity for success, longevity, and great content.
 
 ## Methods
