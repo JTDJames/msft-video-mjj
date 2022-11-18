@@ -10,6 +10,7 @@ https://www.the-numbers.com/
 https://www.boxofficemojo.com/
 We've come to the conclusion that genre type, the production budget, and the director play a most noticable role in profits. While it is important to get a good rating, we've found that it is not as important when trying to build capital.
 
+
 ## Business Problem
 (Add a picture here?)
     
@@ -61,20 +62,19 @@ Then we wanted to find the directors who brought in the most profit based on all
 
 # Conclusion
 
- ##In order to ensure the highest probability of success, we advice to follow these key points:
+## In order to ensure the highest probability of success, we advice to follow these key points:
 
 
- ##Hire staff from studios that have been successful in the past
+## Hire staff from studios that have been the most successful
+Buena Vista, Fox, Universal, Warner Bros., Sony, Paramount, LG/S
 
+## Allocate the necessary budget proven to bring in profit
+We recommend a production budget of $57,000,000. Of all movies that made a profit of at least $25,000,000, the average production budget was $57,000,000.
 
- ##Allocate the necessary budget proven to bring in profit
+## Create movies in genres that are proven to draw crowds
+Action, Adventure, Sci-Fi, Fantasy are the most monetary succesful genres to choose from
 
+## Hire a director that has a large following and has consistently drawn profit
+Anthony Russo, J.A. Bayona, Pierre Coffin, Joss Whedon, Brad Bird, Shane Black, Kyle Balda, Jared Bush, Lee Unkrich, James Fotopolus
 
- ##Create movies in genres that are proven to draw crowds
-
-
- ##Hire a director that has a large following and has consistently drawn profit
-
-
-
-
+Here is a link to our powerpoint presentation: https://docs.google.com/presentation/d/1mrdgza8fE5thFAxg4BWILcoGOg2y155Bsidb4iATji4/edit#slide=id.g190f093b999_0_283
