@@ -13,6 +13,7 @@ We've come to the conclusion that genre type, the production budget, and the dir
 
 ## Business Problem
 ![download](https://user-images.githubusercontent.com/97541858/202751917-5fcb2924-341a-4ba5-868d-bcb57bdee749.jpg) 
+
 Microsoft is planning on expanding their company developing an original content studio. We believe it best to start with a comprehensive understanding of the current market. Doing so will allow for the best opportunity for success, longevity, and great content.
 
 ## Methods
