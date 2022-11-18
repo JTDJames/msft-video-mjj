@@ -11,6 +11,7 @@ https://www.boxofficemojo.com/
 We've come to the conclusion that genre type, the production budget, and the director play a most noticable role in profits. While it is important to get a good rating, we've found that it is not as important when trying to build capital.
 
 ## Business Problem
+(Add a picture here?)
     
 Microsoft is planning on expanding their company developing an original content studio. We believe it best to start with a comprehensive understanding of the current market. Doing so will allow for the best opportunity for success, longevity, and great content.
 
