@@ -61,19 +61,19 @@ Then we wanted to find the directors who brought in the most profit based on all
 
 # Conclusion
 
-##In order to ensure the highest probability of success, we advice to follow these key points:
+ ##In order to ensure the highest probability of success, we advice to follow these key points:
 
 
-##Hire staff from studios that have been successful in the past
+ ##Hire staff from studios that have been successful in the past
 
 
-##Allocate the necessary budget proven to bring in profit
+ ##Allocate the necessary budget proven to bring in profit
 
 
-##Create movies in genres that are proven to draw crowds
+ ##Create movies in genres that are proven to draw crowds
 
 
-#Hire a director that has a large following and has consistently drawn profit
+ ##Hire a director that has a large following and has consistently drawn profit
 
 
 
