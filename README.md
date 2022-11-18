@@ -1,4 +1,4 @@
-
+![microsoft-logo-gray-bg-banner](https://user-images.githubusercontent.com/97541858/202750498-1c81de24-a068-481a-b716-766e705c0ac3.jpg)
 
 # Microsoft Movie Studio
 
