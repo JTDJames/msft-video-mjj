@@ -1,11 +1,8 @@
-# msft-video-mjj
-jc
-# Microsoft Video Phase 1 Project
-mike
 
-    How we plan to help Microsoft earn more money
 
-    Overview
+# Microsoft Movie Studio
+
+## Overview
 
 This project analyzes the success of movies based on data gathered from multiple sources:
 https://www.imdb.com/
@@ -13,15 +10,15 @@ https://www.the-numbers.com/
 https://www.boxofficemojo.com/
 We've come to the conclusion that genre type, the production budget, and the director play a most noticable role in profits. While it is important to get a good rating, we've found that it is not as important when trying to build capital.
 
-   Business Problem
+## Business Problem
     
 Microsoft is planning on expanding their company developing an original content studio. We believe it best to start with a comprehensive understanding of the current market. Doing so will allow for the best opportunity for success, longevity, and great content.
 
-   Methods
+## Methods
     
 We've created bar charts and scatter plots that have been a useful practice while coming to our conclusions. Doing so has allowed us to gain an understanding of trends and specific methods we can use to bring in profits. The information we are displaying is from 2012 to
         
-   Results
+## Results
 
 We wanted to gauge the success of the current directors:
 
