@@ -23,7 +23,6 @@ We've created bar charts and scatter plots that have been a useful practice whil
 ## Results
 
 To find the studios that have been most succesful:
-
 We found the studios with hightest total gross:
 
 ![Highest_grossing_studios](images/top_studios_filt_gross.png)
@@ -32,15 +31,15 @@ We also found the studios with the greatest number of movies made:
 
 ![most_movies_made_studios](images/top_studios_filt_num_movs.png)
 
-To find the most effective budget:
+To find the most effective budget:  
 
-We wanted to know if production budget correlated to a higher average rating (on the left):
-Then we wanted to know if production budget correlated to a higher worldwide profit (on the right):
+To gauge if production budget correlated to a higher average rating (on the left): 
+
+We then wanted to know if production budget correlated to a higher worldwide profit (on the right):
 
 ![productionbudget_rating_profit_scatterplt](images/bud_filt_avgrat_wwprofit_2.png)
 
 To find the most succesful genres and genre combinations:
-
 We searched for the top gerne combinations by average rating:
 
 ![top_genres_rating](images/top_gen_s_2012_b_avg_rat.png)
@@ -50,19 +49,18 @@ We then decided to find which genre combinations brought in the most profit:
 ![top_genres_profit](images/top_gen_s_2012_b_avg_wwgr.png)
 
 To gauge the success of the current directors:
-
 We searched for directors who had more than one movie rated in the top 50 on imdb that also had atleast 100,000 votes:
 
 ![top_50_Barchart](images/top_dirs_s_2012_100000_by_movs_in_top50.png)
     
-Then we wanted to find the directors who brought in the most profit based on all of the movies they had directed:
+We then wanted to find the directors who brought in the most profit based on all of the movies they had directed:
 
 ![Highest_earning_Barchart](images/top_dirs_profit_s_2012.png)
 
 
 # Conclusion
 
-## In order to ensure the highest probability of success, we advice to follow these key points:
+## In order to ensure the highest probability of success, we advise to follow these key points:
 
 
 ## Hire staff from studios that have been the most successful
