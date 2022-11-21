@@ -61,19 +61,17 @@ We then wanted to find the directors who brought in the most profit based on all
 
 # Conclusion
 
-## In order to ensure the highest probability of success, we advise to follow these key points:
+In order to ensure the highest probability of success, we advise to follow these key points:
+- **Hire staff from studios that have been the most successful**; bena Vista, Fox, Universal, Warner Bros., Sony, Paramount, LG/S
+- **Allocate the necessary budget proven to bring in profit**. We recommend a production budget of $57,000,000. Of all movies that made a profit of at least $25,000,000, the average production budget was $57,000,000.
+- **Create movies in genres that are proven to draw crowds**; Action, Adventure, Sci-Fi, Fantasy are the most monetary succesful genres to choose from
+- **Hire directors that has a large following and has consistently drawn profit**; Anthony Russo, J.A. Bayona, Pierre Coffin, Joss Whedon, Brad Bird, Shane Black, Kyle Balda, Jared Bush, Lee Unkrich, James Fotopolus
 
+## Next Steps
 
-## Hire staff from studios that have been the most successful
-Buena Vista, Fox, Universal, Warner Bros., Sony, Paramount, LG/S
+# For More Information
 
-## Allocate the necessary budget proven to bring in profit
-We recommend a production budget of $57,000,000. Of all movies that made a profit of at least $25,000,000, the average production budget was $57,000,000.
+See the full analysis in the [Jupyter Notebook]( "Microsoft Movie Studio Jupyter Notebook") or [review this presentation](https://docs.google.com/presentation/d/1mrdgza8fE5thFAxg4BWILcoGOg2y155Bsidb4iATji4/edit?usp=sharing "Microsoft Movei Studio Presentaion").
 
-## Create movies in genres that are proven to draw crowds
-Action, Adventure, Sci-Fi, Fantasy are the most monetary succesful genres to choose from
+* Repository Structure
 
-## Hire a director that has a large following and has consistently drawn profit
-Anthony Russo, J.A. Bayona, Pierre Coffin, Joss Whedon, Brad Bird, Shane Black, Kyle Balda, Jared Bush, Lee Unkrich, James Fotopolus
-
-Here is a link to our powerpoint presentation: https://docs.google.com/presentation/d/1mrdgza8fE5thFAxg4BWILcoGOg2y155Bsidb4iATji4/edit#slide=id.g190f093b999_0_283
