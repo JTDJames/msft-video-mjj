@@ -76,4 +76,4 @@ In order to ensure the highest probability of success, we advise to follow these
 
 # For More Information
 
-See the full analysis in the [Jupyter Notebook]( "Microsoft Movie Studio Jupyter Notebook") or [review this presentation](https://docs.google.com/presentation/d/1mrdgza8fE5thFAxg4BWILcoGOg2y155Bsidb4iATji4/edit?usp=sharing "Microsoft Movei Studio Presentaion").
+See the full analysis in the [Jupyter Notebook](https://github.com/JTDJames/msft-video-mjj/blob/main/Microsoft-Movie-Studio%20-%20Jupyter%20Notebook.pdf "Microsoft Movie Studio Jupyter Notebook") or [review this presentation](https://docs.google.com/presentation/d/1mrdgza8fE5thFAxg4BWILcoGOg2y155Bsidb4iATji4/edit?usp=sharing "Microsoft Movei Studio Presentaion").
