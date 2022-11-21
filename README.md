@@ -1,6 +1,7 @@
-
+![MMS](https://user-images.githubusercontent.com/97541858/202767577-b3ad67ca-3f18-4094-bfe5-2a97f6590c65.jpg)
 
 # Microsoft Movie Studio
+**Authors:** Michael Licul, Justin James, Jake Cordrey
 
 ## Overview
 
@@ -12,8 +13,8 @@ We've come to the conclusion that genre type, the production budget, and the dir
 
 
 ## Business Problem
-(Add a picture here?)
-    
+![banner-photo-terms-and-conditions-studio-mao_2560-no-logo](https://user-images.githubusercontent.com/97541858/202752301-2b658a8c-aa15-48f3-b93b-92ec46655f93.jpg)
+
 Microsoft is planning on expanding their company developing an original content studio. We believe it best to start with a comprehensive understanding of the current market. Doing so will allow for the best opportunity for success, longevity, and great content.
 
 ## Methods
