@@ -69,9 +69,11 @@ In order to ensure the highest probability of success, we advise to follow these
 
 ## Next Steps
 
+- Analyze **individual genres** and their success.
+- Break down **budget allocation suggestion by film type**.
+- Find the **reviewers that are the best indication of a movie that will perform** well and what elements of a movie impact their review.
+- **Subset foreign audiences** and where the biggest rpofts are made.
+
 # For More Information
 
 See the full analysis in the [Jupyter Notebook]( "Microsoft Movie Studio Jupyter Notebook") or [review this presentation](https://docs.google.com/presentation/d/1mrdgza8fE5thFAxg4BWILcoGOg2y155Bsidb4iATji4/edit?usp=sharing "Microsoft Movei Studio Presentaion").
-
-* Repository Structure
-
